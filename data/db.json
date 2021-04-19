@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "Todo": 3
+  },
+  "models": {
+    "Todo": {
+      "1": "{\"title\":\"Learn Loopback 4\",\"desc\":\"In order to make my own api for the TROT project that i am recently planning, I have to learn and master Loopback 4\",\"isComplete\":false,\"id\":1}",
+      "2": "{\"title\":\"Trot Project LOGO\",\"desc\":\"Spend time on making logo design for our TROT project in collaboration with Danish Fareed\",\"isComplete\":false,\"id\":2}"
+    }
+  }
+}
